@@ -1262,6 +1262,7 @@ PRODUCT_PACKAGES += \
     DeviceInfo \
     QtiTelephonyService \
     WfdService \
+    dpmserviceapp \
     ims \
     qcrilmsgtunnel \
     tcmclient \
